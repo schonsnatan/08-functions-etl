@@ -1,2 +1,2 @@
 # 08-functions-etl
-workflow_etl.png
+![workflow](workflow_etl.png)
